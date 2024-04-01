@@ -13,3 +13,4 @@ scikit-learn==1.1.2
 sewar==0.4.5
 tensorflow==2.11.1
 xgboost==1.6.2
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
